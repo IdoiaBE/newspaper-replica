@@ -29,14 +29,14 @@ Este proyecto simula visualmente una portada de periódico tradicional en format
 
 ## 🛠️ Tecnologías utilizadas
 
-- 🧱 **HTML5** – Estructura semántica del contenido.
-- 🎨 **SCSS** – Preprocesador CSS para una mejor organización y reutilización.
-- 📐 **Flexbox** – Para estructuras flexibles de una sola dimensión.
-- 🧮 **CSS Grid** – Para layouts de dos dimensiones.
-- 📱 **Media Queries** – Diseño adaptable a distintos tamaños de pantalla.
+- **HTML5** – Estructura semántica del contenido.
+- **SCSS** – Preprocesador CSS para una mejor organización y reutilización.
+- **Flexbox** – Para estructuras flexibles de una sola dimensión.
+- **CSS Grid** – Para layouts de dos dimensiones.
+- **Media Queries** – Diseño adaptable a distintos tamaños de pantalla.
 
 ## 📂 Estructura de carpetas
-
+```
 📁 docs/
 │   ├── assets/            # Archivos estáticos generados (JS, CSS optimizados)
 │   ├── images/            # Imágenes optimizadas al compilar
@@ -61,6 +61,7 @@ Este proyecto simula visualmente una portada de periódico tradicional en format
 │   │   ├── layout/
 │   │   └── main.scss      # Punto de entrada SCSS
 │   └── index.html         # Archivo HTML principal
+```
 
 
 ## 💻 Instalación y uso
